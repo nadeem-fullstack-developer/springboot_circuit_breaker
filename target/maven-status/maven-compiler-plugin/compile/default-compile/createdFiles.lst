@@ -1,0 +1,4 @@
+com\rest\loans\services\LoanService.class
+com\rest\loans\controllers\LoanController.class
+com\rest\loans\dtos\InterestRate.class
+com\rest\loans\LoanServiceApplication.class
